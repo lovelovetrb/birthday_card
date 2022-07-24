@@ -67,7 +67,7 @@ body{
 .date{
     position: absolute;
     text-align: end;
-    bottom: -300px;
+    bottom: -230px;
     right: -10px;
     margin-top: 10em;
 }
