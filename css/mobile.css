@@ -1,0 +1,25 @@
+@media screen and (max-width: 959px) {
+    .date {
+        padding: 2rem;
+    }
+
+    .massage_title {
+        margin-top: 3rem;
+    }
+
+    .massage_main {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 2.5rem !important;
+    }
+
+    .massage_main {
+        width: 90%;
+    }
+
+
+}
